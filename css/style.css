@@ -5,3 +5,8 @@ body{
 h1, h2, h3, p{
     margin: 0;
 }
+
+a{
+    font-size: 30px;
+    color: blue;
+}
