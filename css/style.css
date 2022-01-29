@@ -14,3 +14,13 @@ a{
 .best{
     color: brown;
 }
+
+h1{
+    color: aqua;
+    font-size: 30px;
+    font-weight: 700;
+}
+p{
+    font-weight: 22px;
+}
+    
